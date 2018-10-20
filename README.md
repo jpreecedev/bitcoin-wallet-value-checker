@@ -4,4 +4,8 @@ A helpful little utility that, when given a wallet public key (address), will id
 
 Use the following address as an example;
 
+```pre
 1H249dGj9kFUjJMeVnB7uGrqYo1x9v4fbq
+```
+
+(This is not my wallet, do not sent BTC to it!)
